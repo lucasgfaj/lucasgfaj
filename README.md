@@ -19,4 +19,4 @@
 <!-- Contact Section -->
 ## Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/lucas-fajardo-612550249/)
-- [Email](lucasgfajardo09@gmail.com)
+- [Email](mailto:lucasgfajardo09@gmail.com)
