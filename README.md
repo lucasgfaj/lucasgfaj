@@ -16,13 +16,6 @@
   <!-- Add more shields for other languages and tools -->
 </p>
 
-<!-- Projects Section -->
-## Projetos
-- [Nome do Projeto 1](link_do_projeto_1) - Descrição breve do projeto.
-  ![Projeto 1](link_da_imagem_projeto_1)
-- [Nome do Projeto 2](link_do_projeto_2) - Descrição breve do projeto.
-  ![Projeto 2](link_da_imagem_projeto_2)
-
 <!-- GitHub Stats Section -->
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](link_do_grafico_contribuicao)
