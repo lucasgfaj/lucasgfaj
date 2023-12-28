@@ -16,11 +16,7 @@
   <!-- Add more shields for other languages and tools -->
 </p>
 
-<!-- GitHub Stats Section -->
-## Estatísticas do GitHub
-![Estatísticas do GitHub](link_do_grafico_contribuicao)
-
 <!-- Contact Section -->
 ## Entre em Contato
-- [LinkedIn](link_do_seu_linkedin)
-- [Email](seu_email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-fajardo-612550249/)
+- [Email](lucasgfajardo09@gmail.com)
