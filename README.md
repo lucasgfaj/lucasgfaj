@@ -21,18 +21,8 @@
 ## Estatísticas do GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfaj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Contact Icons Section -->
-## Redes Socias
-<p align="center">
-  <a href="https://www.instagram.com/lucasgfaj/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v1.png" alt="Instagram" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-fajardo-612550249/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="mailto:lucasgfajardo09@gmail.com" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
-
-
+<!-- Redes Sociais Section -->
+#### Redes Sociais: 
+<a href="https://www.instagram.com/lucasgfaj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://twitter.com/douglasabnovato" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lucasgfajardo09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
