@@ -34,7 +34,6 @@
 - [G-Prod](https://github.com/lucasgfaj/g-prod.git) - Envolvendo DevOps e comunicação entre VMs.
 - [Growth Suplementos](https://github.com/lucasgfaj/growth-suplementos.git) - Inspirada na Growth Suplementos, utilizando Bootstrap.
   
-*Obs: Substitua os links e descrições pelos seus projetos reais!*
 
 <!-- Redes Sociais Section -->
 #### Redes Sociais:
