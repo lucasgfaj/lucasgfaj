@@ -31,7 +31,7 @@
 <!-- Projetos Notáveis Section -->
 ## Projetos Notáveis
 - [Trampa Aqui](https://github.com/lucasgfaj/trampa-aqui) - Inspirada em Thor Vagas, utilizando Angular.
-- [G-Prod](https://github.com/lucasgfaj/g-prod.git) - Envolvendo DevOps e comunicação entre VMs.
+- [G-Prod](https://github.com/lucasgfaj/g-prod.git) - Envolvendo um Ambiente DevOps com Docker e comunicação entre VMs, sistema projetado com Ruby On Rails e MySQL.
 - [Growth Suplementos](https://github.com/lucasgfaj/growth-suplementos.git) - Inspirada na Growth Suplementos, utilizando Bootstrap.
   
 
