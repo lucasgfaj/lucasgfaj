@@ -1,13 +1,8 @@
-<!-- Header Section -->
-<h1 align="center">👋 Olá, seja bem-vindo ao meu perfil!</h1>
-<p align="center">Meu nome é Lucas Gontarz Fajardo, um entusiasta da programação e estudante de Sistemas para Internet.</p>
-
 <!-- About Me Section -->
-## Sobre mim
-- 📚 Aluno da Universidade Tecnológica Federal do Paraná, cursando Sistemas para Internet.
-- 🌱 Explorando o mundo da programação e sempre em busca de novos desafios.
-- 💻 Apaixonado por desenvolver soluções criativas e inovadoras.
-- 🌍 Buscando contribuir para projetos open source e aprender com a comunidade.
+## Sobre Mim
+- 📚 **Graduando em Sistemas para Internet** pela Universidade Tecnológica Federal do Paraná.
+- 🌱 Explorando constantemente o universo da programação e buscando desafios que inspirem crescimento.  
+- 💻 **Entusiasta de tecnologia**, dedicado a criar soluções práticas e funcionais para problemas reais.  
 
 <!-- Languages and Tools Section -->
 ## Linguagens e Ferramentas
@@ -25,20 +20,28 @@
 
 <!-- GitHub Stats Section -->
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasgfaj&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfaj&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgfaj&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfaj&layout=compact&theme=radical" alt="Linguagens mais usadas">
+</div>
 
-<!-- Projetos Notáveis Section -->
+<!-- Notable Projects Section -->
 ## Projetos Notáveis
-- [Trampa Aqui](https://github.com/lucasgfaj/trampa-aqui) - Inspirada em Thor Vagas, utilizando Angular.
-- [G-Prod](https://github.com/lucasgfaj/g-prod.git) - Envolvendo um Ambiente DevOps com Docker e comunicação entre VMs, sistema projetado com Ruby On Rails e MySQL.
-- [Growth Suplementos](https://github.com/lucasgfaj/growth-suplementos.git) - Inspirada na Growth Suplementos, utilizando Bootstrap.
-  
+- [**Trampa Aqui**](https://github.com/lucasgfaj/trampa-aqui)  
+  Sistema inspirado no Thor Vagas, desenvolvido utilizando **Angular**.  
+- [**G-Prod**](https://github.com/lucasgfaj/g-prod.git)  
+  Ambiente DevOps com **Docker** e comunicação entre VMs. Sistema projetado com **Ruby on Rails** e **MySQL**.  
+- [**Growth Suplementos**](https://github.com/lucasgfaj/growth-suplementos.git)  
+  Site inspirado na Growth Suplementos, desenvolvido com **Bootstrap** para responsividade.  
 
-<!-- Redes Sociais Section -->
-#### Redes Sociais:
-<a href="https://www.instagram.com/lucasgfaj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/lucas-fajardo-612550249/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:lucasgfajardo09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!-- Social Media Section -->
+## Redes Sociais
+<p>
+  <a href="https://www.instagram.com/lucasgfaj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/lucas-fajardo-612550249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucasgfajardo09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-🌟 Sinta-se à vontade para me contatar! Estou sempre aberto a novas conexões e colaborações.
+---
+
+<img src="https://komarev.com/ghpvc/?username=lucasgfaj&color=0e75b6&style=for-the-badge" alt="Visualizações do Perfil">
