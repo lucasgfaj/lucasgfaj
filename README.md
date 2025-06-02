@@ -43,5 +43,3 @@
 </p>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=lucasgfaj&color=0e75b6&style=for-the-badge" alt="Profile Views">
