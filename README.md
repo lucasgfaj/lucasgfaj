@@ -66,3 +66,15 @@ Built with **Bootstrap** for responsive UI, uses **PostgreSQL** as the database,
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+<!-- GitHub Stats Section -->
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfaj&layout=compact&theme=radical" alt="Most Used Languages">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasgfaj&show_icons=true&theme=radical" alt="GitHub Stats">
+ 
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasgfaj&bg_color=000000&color=07E9C7&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
