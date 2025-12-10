@@ -1,4 +1,4 @@
-## 📌 About Me
+## About Me
 
 🎓 **Undergraduate in Internet Systems** at the Federal University of Technology - Paraná (UTFPR).  
 🚀 Passionate about technology and solving real-world problems through code.  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [Trampa Aqui](https://github.com/lucasgfaj/trampa-aqui)
 > A job listing system inspired by Thor Vagas, built with **Angular**.  
@@ -53,9 +53,9 @@ Implements **CRUD operations**, **loan control**, and **pagination** within an *
 Built with **Bootstrap** for responsive UI, uses **PostgreSQL** as the database, and runs in a **Docker containerized environment**.
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lucas-fajardo-612550249/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -66,15 +66,4 @@ Built with **Bootstrap** for responsive UI, uses **PostgreSQL** as the database,
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-<!-- GitHub Stats Section -->
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfaj&layout=compact&theme=radical" alt="Most Used Languages">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasgfaj&show_icons=true&theme=radical" alt="GitHub Stats">
- 
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasgfaj&bg_color=000000&color=07E9C7&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
